@@ -12,15 +12,15 @@
         "hex": "32"
     },
     {
-        "name": "ECO Stage 1",
+        "name": "ECO ST1",
         "hex": "64"
     },
     {
-        "name": "ECO Stage 2",
+        "name": "ECO ST2",
         "hex": "7d"
     },
     {
-        "name": "ECO Stage 3",
+        "name": "ECO ST3",
         "hex": "96"
     }
 ]

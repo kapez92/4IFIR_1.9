@@ -7,16 +7,16 @@
         "hex": "00"
     },
     {
-        "name": "1 - 1 level",
+        "name": "1 level",
         "hex": "01"
     },
     {
-        "name": "2 - 2 level",
+        "name": "2 level",
         "hex": "02"
     
     },
     {
-        "name": "3 - 3 level",
+        "name": "3 level",
         "hex": "03"
     }
 ]

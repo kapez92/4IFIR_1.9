@@ -3,15 +3,15 @@
         "name": "`GPU Under Mode"
     },
     {
-        "name": "1 - Eco ST1",
+        "name": "Eco ST1",
         "hex": "030000"
     },
     {
-        "name": "2 - Eco ST2",
+        "name": "Eco ST2",
         "hex": "020000"
     },
     {
-        "name": "3 - Eco ST3",
+        "name": "Eco ST3",
         "hex": "010000"
     }
 ]

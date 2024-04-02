@@ -3,19 +3,15 @@
         "name": "`GPU Undervolt"
     },
     {
-        "name": "1 - Default",
+        "name": "Eco ST1 - Default",
         "hex": "00"
     },
     {
-        "name": "2 - 1 level",
+        "name": "Eco ST2",
         "hex": "01"
     },
     {
-        "name": "3 - 2 level",
+        "name": "Eco ST3",
         "hex": "02"
-    },
-    {
-        "name": "Manual - 3 - Apply table",
-        "hex": "03"
     }
 ]
